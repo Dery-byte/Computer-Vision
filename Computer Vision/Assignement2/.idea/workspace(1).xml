@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="668dff4f-5754-432f-991e-bb4513a24782" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/Dery-byte.github.io" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/Calculator/.vscode/extensions.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/Calculator/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/Calculator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/Calculator/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/Calculator/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/bg-pentagon.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/bg-triangle.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/favicon-32x32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/icon-close.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/icon-lizard.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/icon-paper.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/icon-rock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/icon-scissors.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/icon-spock.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/image-rules-bonus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/image-rules.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/logo-bonus.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//AmaliTech/Training Resources/Phase 2/Project/new/Phase2Project/rock-paper-scissors-master/rock-paper-scissors-master/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//MS DOCUMENTS/Derry-Emmanuel-CV/GradSchool/UCC/MPhil First Year/Year 1 Sem 1/Computer Vision/Image_resolution_assignment/Image_resolution_assignment/Contrast_Stretch.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//SpringBoot/Examportal/examserver/examserver/src/main/java/com/exam/examserver/config/JwtAuthenticationEntryPoint.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../..//SpringBoot/Examportal/examserver/examserver/src/main/java/com/exam/examserver/config/JwtAuthenticationEntryPoint.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//SpringBoot/Examportal/examserver/examserver/src/main/java/com/exam/examserver/config/JwtUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../..//SpringBoot/Examportal/examserver/examserver/src/main/java/com/exam/examserver/config/JwtUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../..//SpringBoot/Examportal/examserver/examserver/src/main/java/com/exam/examserver/model/UserRole.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../..//SpringBoot/Examportal/examserver/examserver/src/main/java/com/exam/examserver/model/UserRole.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../" />
+  </component>
+  <component name="ProjectId" id="2MKmov26IDh11hiObNURC0ONgsR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/UCC/MPhil First Year/Year 1 Sem 1/Computer Vision/Assignement2&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="lowHighpass" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Assignement2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lowHighpass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.lowHighpass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="668dff4f-5754-432f-991e-bb4513a24782" name="Changes" comment="" />
+      <created>1677524826598</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677524826598</updated>
+    </task>
+    <servers />
+  </component>
+</project>

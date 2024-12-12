@@ -1,0 +1,4 @@
+Sign gesture. telling the sign made by an individual.
+interprating sign language. (Image recognition)
+
+In this one can lable the sign gessture with english translation to aid those who do not understand sign lanaguage.

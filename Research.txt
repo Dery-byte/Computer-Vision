@@ -1,0 +1,13 @@
+PRESENTATION
+Introduction
+
+Problem formulation
+
+Methdology
+
+Experiment (Results)
+
+Discussion ( Limitations:improvements)
+
+NB: include code as a bonus (sugguesting problems)
+Conclusion

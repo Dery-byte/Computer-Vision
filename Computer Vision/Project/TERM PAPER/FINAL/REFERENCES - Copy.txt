@@ -1,0 +1,166 @@
+@article{bhuiyan2013image,
+  title={Image processing for skin cancer features extraction},
+  author={Bhuiyan, Md Amran Hossen and Azad, Ibrahim and Uddin, Md Kamal},
+  journal={International Journal of Scientific \& Engineering Research},
+  volume={4},
+  number={2},
+  pages={1--6},
+  year={2013}
+}
+
+
+
+@inproceedings{hoshyar2011review,
+  title={Review on automatic early skin cancer detection},
+  author={Hoshyar, Azadeh Noori and Al-Jumaily, Adel and Sulaiman, Riza},
+  booktitle={2011 International Conference on Computer Science and Service System (CSSS)},
+  pages={4036--4039},
+  year={2011},
+  organization={IEEE}
+}
+
+@article{brinker2018skin,
+  title={Skin cancer classification using convolutional neural networks: systematic review},
+  author={Brinker, Titus Josef and Hekler, Achim and Utikal, Jochen Sven and Grabe, Niels and Schadendorf, Dirk and Klode, Joachim and Berking, Carola and Steeb, Theresa and Enk, Alexander H and Von Kalle, Christof},
+  journal={Journal of medical Internet research},
+  volume={20},
+  number={10},
+  pages={e11936},
+  year={2018},
+  publisher={JMIR Publications Inc., Toronto, Canada}
+}
+
+@article{deshpande2016automated,
+  title={Automated detection of skin cancer and skin allergy},
+  author={Deshpande, APA and Amruta, Gajbar},
+  journal={International Journal},
+  volume={4},
+  number={1},
+  year={2016}
+}
+
+@article{haenssle2018man,
+  title={Man against machine: diagnostic performance of a deep learning convolutional neural network for dermoscopic melanoma recognition in comparison to 58 dermatologists},
+  author={Haenssle, Holger A and Fink, Christine and Schneiderbauer, Roland and Toberer, Ferdinand and Buhl, Timo and Blum, Andreas and Kalloo, A and Hassen, A Ben Hadj and Thomas, Luc and Enk, A and others},
+  journal={Annals of oncology},
+  volume={29},
+  number={8},
+  pages={1836--1842},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{holzinger2019causability,
+  title={Causability and explainability of artificial intelligence in medicine},
+  author={Holzinger, Andreas and Langs, Georg and Denk, Helmut and Zatloukal, Kurt and M{\"u}ller, Heimo},
+  journal={Wiley Interdisciplinary Reviews: Data Mining and Knowledge Discovery},
+  volume={9},
+  number={4},
+  pages={e1312},
+  year={2019},
+  publisher={Wiley Online Library}
+}
+
+@article{han2018classification,
+  title={Classification of the clinical images for benign and malignant cutaneous tumors using a deep learning algorithm},
+  author={Han, Seung Seog and Kim, Myoung Shin and Lim, Woohyung and Park, Gyeong Hun and Park, Ilwoo and Chang, Sung Eun},
+  journal={Journal of Investigative Dermatology},
+  volume={138},
+  number={7},
+  pages={1529--1538},
+  year={2018},
+  publisher={Elsevier}
+}
+
+@article{tschandl2019comparison,
+  title={Comparison of the accuracy of human readers versus machine-learning algorithms for pigmented skin lesion classification: an open, web-based, international, diagnostic study},
+  author={Tschandl, Philipp and Codella, Noel and Akay, Beng{\"u} Nisa and Argenziano, Giuseppe and Braun, Ralph P and Cabo, Horacio and Gutman, David and Halpern, Allan and Helba, Brian and Hofmann-Wellenhof, Rainer and others},
+  journal={The lancet oncology},
+  volume={20},
+  number={7},
+  pages={938--947},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@article{esteva2017dermatologist,
+  title={Dermatologist-level classification of skin cancer with deep neural networks},
+  author={Esteva, Andre and Kuprel, Brett and Novoa, Roberto A and Ko, Justin and Swetter, Susan M and Blau, Helen M and Thrun, Sebastian},
+  journal={nature},
+  volume={542},
+  number={7639},
+  pages={115--118},
+  year={2017},
+  publisher={Nature Publishing Group}
+}
+
+@article{zou2019technical,
+  title={A technical review of convolutional neural network-based mammographic breast cancer diagnosis},
+  author={Zou, Lian and Yu, Shaode and Meng, Tiebao and Zhang, Zhicheng and Liang, Xiaokun and Xie, Yaoqin},
+  journal={Computational and mathematical methods in medicine},
+  volume={2019},
+  year={2019},
+  publisher={Hindawi}
+}
+
+@inproceedings{baloni2021comparative,
+  title={A Comparative Study on CNN Techniques for Cancer Detection in Medical Images},
+  author={Baloni, Dev and Verma, Shashi Kant},
+  booktitle={2021 10th International Conference on System Modeling \& Advancement in Research Trends (SMART)},
+  pages={739--748},
+  year={2021},
+  organization={IEEE}
+}
+
+@inproceedings{kreutz2001automated,
+  title={Automated diagnosis of skin cancer using digital image processing and mixture-of-experts},
+  author={Kreutz, Martin and Ansch{\"u}tz, Maik and Gehlen, Stefan and Gr{\"u}nendick, Thorsten and Hoffmann, Klaus},
+  booktitle={Bildverarbeitung f{\"u}r die Medizin 2001: Algorithmen—Systeme—Anwendungen},
+  pages={357--361},
+  year={2001},
+  organization={Springer}
+}
+
+@inproceedings{goceri2021automated,
+  title={Automated skin cancer detection: where we are and the way to the future},
+  author={Goceri, Evgin},
+  booktitle={2021 44th International Conference on Telecommunications and Signal Processing (TSP)},
+  pages={48--51},
+  year={2021},
+  organization={IEEE}
+}
+
+
+@article{bhuiyan2013image,
+  title={Image processing for skin cancer features extraction},
+  author={Bhuiyan, Md Amran Hossen and Azad, Ibrahim and Uddin, Md Kamal},
+  journal={International Journal of Scientific \& Engineering Research},
+  volume={4},
+  number={2},
+  pages={1--6},
+  year={2013}
+}
+
+@article{kingma2014method,
+  title={A method for stochastic optimization},
+  author={Kingma, Diederik P},
+  journal={ArXiv Prepr},
+  year={2014}
+}
+
+@article{reddi2019convergence,
+  title={On the convergence of adam and beyond},
+  author={Reddi, Sashank J and Kale, Satyen and Kumar, Sanjiv},
+  journal={arXiv preprint arXiv:1904.09237},
+  year={2019}
+}
+
+@article{ruder2016overview,
+  title={An overview of gradient descent optimization algorithms},
+  author={Ruder, Sebastian},
+  journal={arXiv preprint arXiv:1609.04747},
+  year={2016}
+}
+
+
+
